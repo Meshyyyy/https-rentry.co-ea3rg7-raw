@@ -29,6 +29,12 @@
           "text": "Discord Link",
           "url": "https://discord.gg/NTcj5bGSNq"
         }
+      },
+      {
+        "link2": {
+          "text": "Vote",
+          "url": "https://ark-servers.net/server/357878/"
+        }
       }
     ]
   }
